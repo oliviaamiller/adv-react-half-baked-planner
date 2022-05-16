@@ -9,7 +9,6 @@ import './App.css';
 export default function App() {
   return (
     <>
-      {/* TODO: Add PlannerProvider */}
       <PlannerProvider>
         <Header />
         <BrowserRouter>
